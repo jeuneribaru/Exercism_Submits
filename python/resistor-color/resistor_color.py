@@ -20,7 +20,3 @@ def colors():
     for i in dic:
         l.append(i)
     return l
-
-
-print(color_code("violet"))
-print(colors())
